@@ -1,7 +1,32 @@
 body {
     display:flex;
+    margin: 0rem;
 }
 
 *{
-    border: 1px solid black;
+    /* border: 1px solid black; */
+    padding: 0;
+}
+.leftnav{
+    width: 30vw;
+    background-color: rgb(236, 236, 236);
+    height: 100vh;
+}
+.leftnav > *{
+    border-bottom: solid;
+}
+.leftnav ul{
+    list-style-type: none;
+}
+
+.leftnav li{
+    display: flex;
+    align-items: center;
+}
+.leftnav span{
+    margin-left: 2rem;
+}
+
+.leftnav svg{
+    margin-left: 1rem;
 }
