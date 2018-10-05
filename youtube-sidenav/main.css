@@ -45,6 +45,24 @@ body {
 .leftnav span{
     margin-left: 2rem;
 }
-.leftnav h2{
-    padding-left: 2rem;
+.leftnav h3{
+    padding-left: 1rem;
+}
+.bigtext h4{
+    margin-left: 1rem;
+}
+.bigtext p{
+    margin-left: 1rem;
+}
+.moreinfo li{
+    display: flex;
+    align-items: center;
+    padding-bottom: 1rem;
+    margin-left: 1rem;
+}
+.footer p{
+    display: flex;
+    align-items: center;
+    padding-bottom: 1rem;
+    margin-left: 1rem;
 }
