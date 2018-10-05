@@ -1,6 +1,8 @@
 body {
     display:flex;
     margin: 0rem;
+    font-size: 15px;
+    font-family: Roboto, Arial, sans-serif;
 }
 
 *{
@@ -14,6 +16,7 @@ body {
 }
 .leftnav > *{
     border-bottom: solid;
+    border-bottom-color: lightgrey;
 }
 .leftnav ul{
     list-style-type: none;
@@ -29,4 +32,19 @@ body {
 
 .leftnav svg{
     margin-left: 1rem;
+}
+
+.bestof li{
+    display: flex;
+    align-items: center;
+    padding-bottom: 1rem;
+}
+.bestof i{
+    margin-left: 1rem;
+}
+.leftnav span{
+    margin-left: 2rem;
+}
+.leftnav h2{
+    padding-left: 2rem;
 }
