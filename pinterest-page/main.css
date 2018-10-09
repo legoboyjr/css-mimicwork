@@ -16,3 +16,24 @@
     padding-bottom: .80rem;
     font-weight: bold;
 }
+.teardrop-container{
+    width: 15rem;
+    height: 15rem;
+    right: 17rem;
+    bottom: 12rem;
+    color: white;
+    background-color: red;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 25px;   
+}
+.teardrop-container h3{
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+.teardrop-container button{
+    color: white;
+    background-color: red;
+    border: 1px solid white;
+}
