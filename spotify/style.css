@@ -1,6 +1,12 @@
+*{
+    font-family: sans-serif;
+}
+
 .center{
     text-align: center;
-    margin-top: 3rem;
+    background-image: url("orange.jpg");
+    height: 47rem;
+    padding-top: 4rem;
 }
 
 .semi-transparent{
@@ -8,4 +14,23 @@
 }
 .music2{
     margin-top: 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.music{
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.navbar{
+    padding: 1rem;
+}
+
+.btn{
+    margin-top: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
+    font-weight: bold;
 }
