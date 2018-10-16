@@ -4,7 +4,7 @@
 
 .center{
     text-align: center;
-    background-image: url("orange.jpg");
+    background-image: url("colors-1.jpg");
     height: 47rem;
     padding-top: 4rem;
 }
@@ -34,3 +34,11 @@
     padding-left: 5rem;
     font-weight: bold;
 }
+.header-bottom{
+    padding-top: 4rem;
+    color: grey;
+    background-color: black;
+    height: 34rem;
+}
+
+
