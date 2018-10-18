@@ -40,8 +40,8 @@
 .row{
     font-size: 14px;
     margin-left: 6rem;
-    margin-right: 19rem;
     margin-top: 1rem;
+    margin-right:9rem;
 }
 h3{
     margin-left: 0.8rem;
@@ -54,4 +54,41 @@ img{
 .fab{
     font-size: xx-large;
     color: white;
+}
+
+.inta{
+    margin-right:1rem;
+    background-color:rgb(48, 48, 48);
+    border-radius: 3rem;
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    padding-top: .4rem;
+}
+
+.twit{
+    margin-right:1rem;
+    background-color:rgb(48, 48, 48);
+    border-radius: 3rem;
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    padding-top: .4rem;
+}
+
+.face{
+    background-color:rgb(48, 48, 48);
+    border-radius: 3rem;
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    padding-top: .4rem;
+}
+.footernav{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
 }
