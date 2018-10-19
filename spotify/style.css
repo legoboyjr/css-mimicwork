@@ -4,7 +4,7 @@
 .center{
     text-align: center;
     background-image: url("colors-1.jpg");
-    height: 47rem;
+    height: 48rem;
     padding-top: 4rem;
 }
 .semi-transparent{
@@ -16,6 +16,7 @@
     font-weight: bold;
 }
 .music{
+    margin-top: 13rem;
     font-size: 5rem;
     font-weight: bold;
 }
@@ -84,12 +85,29 @@ img{
     text-align: center;
     padding-top: .4rem;
 }
-.footernav{
-    left: 0;
-    bottom: 0;
-    width: 100%;
+.footer{
     background-color: black;
-    color: white;
-    text-align: center;
     
+    font-size: 11px;
+    padding-left:5rem;
+    padding-bottom: 2rem;
+}
+
+.USA{
+    font-size: 11px;
+    font-weight: bold;
+    text-align: right;
+    margin-right: 3rem;
+    padding-top:5rem;
+}
+
+.AB{
+    font-size: 11px;
+    font-weight: bold;
+    text-align: right;
+    margin-right: 3rem;
+}
+
+.flag{
+    margin-left: 80rem;
 }
